@@ -1,0 +1,45 @@
+.result-container {
+  background-color: #fff;
+  width: 300px;
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.result-container h3 {
+  display: flex;
+  justify-content: left;
+  text-align: left;
+  font-size: 14px;
+  align-items: left;
+}
+.result-container h3 {
+  color: #515151;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.result-description {
+  color: #515151;
+  font-size: 14px;
+  margin: 0;
+  text-align: left;
+}
+
+@media (min-width: 960px) {
+  .result-container {
+    width: 400px;
+  }
+  h3 p {
+    font-size: 33px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .result-container {
+    width: 630px;
+  }
+}

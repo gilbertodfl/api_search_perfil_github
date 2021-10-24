@@ -1,0 +1,6 @@
+O objetivo aqui é demonstrar o consumo de uma api. 
+No caso vamos usar a do github para checar o perfil de um usuários. 
+
+Use o code como editor e yarn start para inicializar 
+
+http://localhost:3000/search_people

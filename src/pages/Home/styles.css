@@ -1,0 +1,43 @@
+.home-container {
+  padding: 40px;
+  background-color: #ffffff;
+}
+
+.start-button {
+  color: #fff;
+  background-color: #1890ff;
+}
+
+.home-container p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  color: #7e7e7e;
+}
+
+.home-container h4 {
+  width: 423px;
+  height: 64px;
+  left: 41px;
+  top: 89px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 64px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.02em;
+  color: #000000;
+}
+
+.home-container button:hover {
+  background-color: blue;
+  font-size: 25px;
+  color: yellow;
+  transition-duration: 0.4s;
+}
+
